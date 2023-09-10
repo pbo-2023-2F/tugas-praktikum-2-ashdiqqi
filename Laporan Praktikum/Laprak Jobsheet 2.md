@@ -14,7 +14,7 @@ Studi Kasus 1:
 Dalam suatu perusahaan salah satu data yang diolah adalah data karyawan. Setiap karyawan memiliki id, nama, jenis kelamin, jabatan, jabatan, dan gaji. Setiap mahasiswa juga bisa menampilkan data diri pribadi dan melihat gajinya.
 
 1. Gambarkan desain class diagram dari studi kasus 1!
-   <img src="C:\Users\Diki\Documents\Polinema\SEM 3\OOP\Jobsheet 2\img\Prak1 [MConverter.eu].png">
+   <img src="https://github.com/pbo-2023-2F/tugas-praktikum-2-ashdiqqi/blob/main/img/Prak1%20%5BMConverter.eu%5D.png">
 2. Sebutkan Class apa saja yang bisa dibuat dari studi kasus 1!
    -Karyawan
 3. Sebutkan atribut beserta tipe datanya yang dapat diidentifikasi dari masing-masing class dari studi kasus 1!
@@ -62,7 +62,7 @@ Mahasiswa mhs3 = new Mahasiswa();
 }
 
 Output Mahasiswa
-<img src="C:\Users\Diki\Documents\Polinema\SEM 3\OOP\Jobsheet 2\img\OutputMahasiswa.png">
+<img src="https://github.com/pbo-2023-2F/tugas-praktikum-2-ashdiqqi/blob/main/img/OutputMahasiswa.png">
 
 ## Pertanyaan
 
@@ -107,7 +107,7 @@ Output Mahasiswa
     }
 
 Output
-<img src="C:\Users\Diki\Documents\Polinema\SEM 3\OOP\Jobsheet 2\img\prak1_output.png">
+<img src="https://github.com/pbo-2023-2F/tugas-praktikum-2-ashdiqqi/blob/main/img/prak1_output.png">
 
 ## Percobaan 3 - Menulis method yang memiliki argument/parameter dan memiliki return
 
@@ -147,7 +147,7 @@ public int stok;
 }
 
 Output
-<img src="C:\Users\Diki\Documents\Polinema\SEM 3\OOP\Jobsheet 2\img\prak2_output.png">
+<img src="https://github.com/pbo-2023-2F/tugas-praktikum-2-ashdiqqi/blob/main/img/prak2_output.png">
 
 ## Tugas
 
@@ -158,7 +158,7 @@ Output
    • Harga yang harus dibayar diperoleh dari lama sewa x harga.
    • Diasumsikan 1x transaksi peminjaman game yang dipinjam hanya 1 game saja.
 
-<img src="C:\Users\Diki\Documents\Polinema\SEM 3\OOP\Jobsheet 2\img\Tugas1 [MConverter.eu].png">
+<img src="https://github.com/pbo-2023-2F/tugas-praktikum-2-ashdiqqi/blob/main/img/Tugas1%20%5BMConverter.eu%5D.png">
 
 2.  Buatlah program dari class diagram yang sudah anda buat di no 1!
 
@@ -197,8 +197,12 @@ psw.tampilData();
 }
 }
 
+Output
+  <img src="https://github.com/pbo-2023-2F/tugas-praktikum-2-ashdiqqi/blob/main/img/output_tugasno2.png">
+
+
 3. Buatlah program sesuai dengan class diagram berikut ini:
-   <img src="C:\Users\Diki\Documents\Polinema\SEM 3\OOP\Jobsheet 2\img\classDiagramno3.jpg">
+   <img src="https://github.com/pbo-2023-2F/tugas-praktikum-2-ashdiqqi/blob/main/img/classDiagramno3.jpg">
 
 Kode Program
 Class Lingkaran
@@ -241,10 +245,10 @@ Scanner scanner = new Scanner(System.in);
 }
 
 Output
-<img src="C:\Users\Diki\Documents\Polinema\SEM 3\OOP\Jobsheet 2\img\output_tugasno3.png">
+<img src="https://github.com/pbo-2023-2F/tugas-praktikum-2-ashdiqqi/blob/main/img/output_tugasno3.png">
 
 4. Buatlah program sesuai dengan class diagram berikut ini:
-   <img src="C:\Users\Diki\Documents\Polinema\SEM 3\OOP\Jobsheet 2\img\classDiagramno4.jpg">
+   <img src="https://github.com/pbo-2023-2F/tugas-praktikum-2-ashdiqqi/blob/main/img/classDiagramno4.jpg">
    Deskripsi / Penjelasan :
    • Nilai atribut hargaDasar dalam Rupiah dan atribut diskon dalam %
    • Method hitungHargaJual() digunakan untuk menghitung harga jual dengan perhitungan berikut ini:
@@ -302,4 +306,4 @@ brg.tampilData();
 }
 
 Output
-<img src="C:\Users\Diki\Documents\Polinema\SEM 3\OOP\Jobsheet 2\img\Output tugasno4.png">
+<img src="https://github.com/pbo-2023-2F/tugas-praktikum-2-ashdiqqi/blob/main/img/Output%20tugasno4.png">
